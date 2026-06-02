@@ -46,4 +46,4 @@ Rather than jumping straight to complex black-box models, this repository docume
 * **Result:** Effectively balances the bias-variance tradeoff, providing the highest accuracy and generalizability for predicting unseen fire events.
 
 ## 👨‍💻 Author
-**Chetan Kamble** *Computer Engineering Student, COEP Technological University* [LinkedIn] | [GitHub]
+**Chetan Kamble** *Computer Engineering Student, COEP Technological University*
